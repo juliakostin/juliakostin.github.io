@@ -98,7 +98,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #6C554C; /* Farbe der Links? */
+		color: #000000; /* Farbe des Texts? */
 		font-family: "Lato", sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #94624C !important;
+			color: #94624C !important; /* Farbe der Links beim Hover */
 		}
 
 	strong, b {
