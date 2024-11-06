@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #565656; /* Farbe der Titel */
+		color: #000000; /* Farbe der Titel */
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -2626,14 +2626,14 @@ input, select, textarea {
 			input[type="reset"].primary:hover,
 			input[type="button"].primary:hover,
 			.button.primary:hover {
-				background-color: #24416A;
+				background-color: #504E4C; /*#24416A stupid blue*/
 			}
 
 			input[type="submit"].primary:active,
 			input[type="reset"].primary:active,
 			input[type="button"].primary:active,
 			.button.primary:active {
-				background-color: #24416A;
+				background-color: #504E4C;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
